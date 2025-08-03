@@ -8,7 +8,7 @@
   <a href="mailto:bouziane_ali@upf.ac.ma">
     <img src="https://img.shields.io/badge/Email-bouziane__ali@upf.ac.ma-red?style=flat-square&logo=gmail&logoColor=white" alt="Badge Email">
   </a>
-  <a href="https://www.linkedin.com/in/ali-bouziane" target="_blank">
+  <a href="https://www.linkedin.com/in/ali-bouziane-063a74225/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Ali%20Bouziane-blue?style=flat-square&logo=linkedin&logoColor=white" alt="Badge LinkedIn">
   </a>
 </div>
