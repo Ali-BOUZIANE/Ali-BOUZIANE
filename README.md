@@ -47,23 +47,43 @@
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
 
 #### 🛡️ Outils de Cybersécurité
+
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Parrot OS](https://img.shields.io/badge/Parrot%20OS-1F8AC0?style=for-the-badge&logo=linux&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows Server](https://img.shields.io/badge/Windows%20Server%202022-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Active Directory](https://img.shields.io/badge/Active%20Directory-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Sysmon](https://img.shields.io/badge/Sysmon-444444?style=for-the-badge)
 ![Logs Windows](https://img.shields.io/badge/Windows%20Logs-grey?style=for-the-badge)
+
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679be?style=for-the-badge&logo=wireshark&logoColor=white)
 ![TShark](https://img.shields.io/badge/TShark-333333?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=for-the-badge)
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-orange?style=for-the-badge)
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
-![ELK Stack](https://img.shields.io/badge/ELK-005571?style=for-the-badge&logo=elasticstack&logoColor=white)
 ![sqlmap](https://img.shields.io/badge/sqlmap-yellow?style=for-the-badge)
 ![Cryptography](https://img.shields.io/badge/Python%20Cryptography-blue?style=for-the-badge)
+![Nmap](https://img.shields.io/badge/Nmap-004880?style=for-the-badge)
+![Nessus](https://img.shields.io/badge/Nessus-0480AB?style=for-the-badge)
+![Snort](https://img.shields.io/badge/Snort-F05A28?style=for-the-badge)
+![Suricata](https://img.shields.io/badge/Suricata-B63232?style=for-the-badge)
+![Wazuh](https://img.shields.io/badge/Wazuh-02699C?style=for-the-badge)
+![OpenVPN](https://img.shields.io/badge/OpenVPN-EA7E20?style=for-the-badge)
+![Aircrack-ng](https://img.shields.io/badge/Aircrack--ng-111111?style=for-the-badge)
+![CyberChef](https://img.shields.io/badge/CyberChef-00BFA6?style=for-the-badge)
+![Ghidra](https://img.shields.io/badge/Ghidra-FB2E01?style=for-the-badge)
+![Maltego](https://img.shields.io/badge/Maltego-4479A1?style=for-the-badge)
+![Ettercap](https://img.shields.io/badge/Ettercap-2D2D2D?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-269539?style=for-the-badge&logo=nginx&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![SIEM](https://img.shields.io/badge/SIEM-blue?style=for-the-badge)
 ![SOC](https://img.shields.io/badge/SOC%20Monitoring-darkblue?style=for-the-badge)
 ![EDR](https://img.shields.io/badge/EDR/Endpoint-red?style=for-the-badge)
+
 
 #### 🗃️ Bases de Données
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
