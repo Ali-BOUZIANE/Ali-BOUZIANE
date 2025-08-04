@@ -121,7 +121,7 @@
 ### 🔐 TryHackMe
 
 <a href="https://tryhackme.com/p/Slikhe" target="_blank">
-  <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2950816" style='border:none;'  height="150"></iframe>
+  <img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2950816" alt="TryHackMe Badge" height="150">
 </a>
 
 ---
