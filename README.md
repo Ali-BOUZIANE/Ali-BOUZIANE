@@ -21,7 +21,7 @@
 - 🔍 À la recherche d'un **stage PFE** à partir de février 2026.
 - 💼 Expériences en développement web et gestion de projets dans les secteurs de la construction et aéroportuaire.
 - 🏆 **1er Prix** à la Compétition d'innovation XR 2025.
-- 📫 Contact : [bouziane_ali.eupf.ac.ma](mailto:bouziane_ali.eupf.ac.ma)
+- 📫 Contact : [bouziane_ali.@upf.ac.ma](mailto:bouziane_ali.@upf.ac.ma)
 
 ---
 
