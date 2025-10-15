@@ -1,5 +1,5 @@
 <h1 align="center">Salut 👋, je suis Ali Bouziane</h1>
-<h3 align="center">Ingénieur en Génie Informatique | Passionné par le développement logiciel, la cybersécurité et les solutions web intelligentes</h3>
+<h3 align="center">Ingénieur en Génie Informatique | Cybersécurité </h3>
 
 <div align="center">
   <a href="https://github.com/AliBouziane">
