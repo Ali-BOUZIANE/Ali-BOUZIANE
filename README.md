@@ -1,12 +1,12 @@
-<h1 align="center">Salut 👋, je suis Ali Bouziane</h1>
-<h3 align="center">Ingénieur en Génie Informatique | Cybersécurité </h3>
+# [cite_start]Salut 👋, je suis Ali Bouziane [cite: 1, 44]
+### Ingénieur en Génie Informatique | [cite_start]Cybersécurité [cite: 1, 104]
 
 <div align="center">
   <a href="https://github.com/AliBouziane">
     <img src="https://img.shields.io/github/followers/AliBouziane?label=Followers&style=social" alt="Followers GitHub">
   </a>
-  <a href="mailto:bouziane_ali.eupf.ac.ma">
-    <img src="https://img.shields.io/badge/Email-bouziane__ali.eupf.ac.ma-red?style=flat-square&logo=gmail&logoColor=white" alt="Badge Email">
+  <a href="mailto:bouziane_ali@upf.ac.ma">
+    <img src="https://img.shields.io/badge/Email-bouziane__ali@upf.ac.ma-red?style=flat-square&logo=gmail&logoColor=white" alt="Badge Email">
   </a>
   <a href="https://www.linkedin.com/in/ali-bouziane-063a74225/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Ali%20Bouziane-blue?style=flat-square&logo=linkedin&logoColor=white" alt="Badge LinkedIn">
@@ -17,135 +17,64 @@
 
 ### 🧑‍💻 À propos de moi
 
-- 🎓 Étudiant en **Cycle d'ingénieur en Génie Informatique** à l'Université Privée de Fès.
-- 🔍 À la recherche d'un **stage PFE** à partir de février 2026.
-- 💼 Expériences en développement web et gestion de projets dans les secteurs de la construction et aéroportuaire.
-- 🏆 **1er Prix** à la Compétition d'innovation XR 2025.
-- 📫 Contact : [bouziane_ali.@upf.ac.ma](mailto:bouziane_ali.@upf.ac.ma)
+- [cite_start]🎓 Étudiant en **dernière année de Cycle d'ingénieur en Génie Informatique** à l'Université Privée de Fès[cite: 37, 106].
+- [cite_start]🔍 Actuellement à la recherche d'un **stage de fin d'études (PFE)** de six mois à partir de février 2026[cite: 51, 106].
+- [cite_start]🛡️ Passionné par la cybersécurité, le développement logiciel et l'intelligence artificielle[cite: 7, 51].
+- [cite_start]🏆 Lauréat du **1er Prix** à la Compétition d'innovation XR 2025[cite: 31, 72, 110].
+- [cite_start]💼 Expériences significatives en développement Web et ingénierie logicielle dans les secteurs du BTP et de l'aéronautique[cite: 12, 18, 57, 66].
 
 ---
 
-### 🛠 Compétences Techniques
+### [cite_start]🛠 Compétences Techniques [cite: 39, 40, 41, 43, 86, 87, 89, 90, 91]
 
-#### 💻 Langages de Programmation
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+#### 💻 Langages & Web
+- [cite_start]**Langages :** Python, Java (Certifié SE 17), C, PHP, JavaScript, HTML5, CSS3[cite: 39, 86].
+- [cite_start]**Frameworks :** Spring Boot, Spring Security, JEE, React, Laravel, Express.js, Vue.js[cite: 40, 87].
 
-#### 🌐 Frameworks & Technologies
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![JEE](https://img.shields.io/badge/JEE-6DB33F?style=for-the-badge)
+#### 🛡️ Cybersécurité & DevOps
+- [cite_start]**Outils :** Splunk, ELK Stack, Wazuh, Wireshark, Burp Suite, Nmap, Sqlmap[cite: 41, 43, 91, 115].
+- [cite_start]**Compétences :** Pentesting (Web & AD), Cryptographie, Sécurité Réseau, Analyse de logs VPN[cite: 25, 28, 43, 91, 115].
+- [cite_start]**Infrastructure :** Linux, Windows Server, Docker, AWS, Nginx[cite: 33, 43, 91].
 
-#### 🗃️ Bases de Données
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
-#### 🛡️ Cybersécurité
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Wazuh](https://img.shields.io/badge/Wazuh-02699C?style=for-the-badge)
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge)
-![ELK Stack](https://img.shields.io/badge/ELK%20Stack-005571?style=for-the-badge)
-
-#### ⚙️ Outils & Méthodes
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![UML](https://img.shields.io/badge/UML-000000?style=for-the-badge)
-![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-269539?style=for-the-badge&logo=nginx&logoColor=white)
-
-#### 📊 Big Data & Analytics
-![Apache Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
-![HDFS](https://img.shields.io/badge/HDFS-66CCFF?style=for-the-badge)
-![Hive](https://img.shields.io/badge/Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black)
-![Sqoop](https://img.shields.io/badge/Sqoop-66CCFF?style=for-the-badge)
+#### 📊 Data & IA
+- [cite_start]**Big Data :** Apache Hadoop, HDFS, Spark, Hive, Sqoop[cite: 36, 77, 81, 89].
+- [cite_start]**Intelligence Artificielle :** LLMs, RAG, Agents IA, Machine Learning (Clustering K-Means/DBSCAN)[cite: 81, 89].
+- [cite_start]**Bases de Données :** MySQL, SQL Server, MongoDB[cite: 40, 89].
 
 ---
 
-### 🎓 Certifications
+### 🎓 Certifications Clés
 
-- 📜 **Cisco** - CCNA
-- 📜 **Cisco** - Junior Cybersecurity Analyst
-- 📜 **(ISC)²** - Certified in Cybersecurity (CC)
-- 📜 **Oracle** - Certified Professional: Java SE 17 Developer
-- 📜 **Coursera** - Business Intelligence Expert
-
----
-
-### 💼 Expériences Professionnelles
-
-#### 🏗️ Développeur Web - Société SALOTRAV (Juin 2025 - Août 2025)
-- Conception et développement d'un système web de gestion de la construction
-- Gestion des projets, employés, équipements, outils et fournitures
-- Mise en place d'un système sécurisé d'authentification
-- Création de tableaux de bord et fiches de pointage
-
-#### ✈️ Ingénieur Logiciel - ONDA Fès-Saïss (Juin 2024 - Août 2024)
-- Développement d'une application web de gestion de maintenance aéroportuaire
-- Gestion des ordres de travail et suivi des équipements
-- Mise en place de modules de suivi et génération de rapports
-- Optimisation de la gestion du personnel et services de maintenance
+- [cite_start]📜 **(ISC)²** - Certified in Cybersecurity (CC)[cite: 10, 116].
+- [cite_start]📜 **Oracle** - Certified Professional: Java SE 17 Developer[cite: 10, 54].
+- [cite_start]📜 **Cisco** - CCNA & Junior Cybersecurity Analyst[cite: 10, 55, 116].
+- [cite_start]📜 **IBM** - Artificial Intelligence Analyst[cite: 53].
+- 📜 **Coursera** - Business Intelligence Expert.
 
 ---
 
-### 🚀 Projets Réalisés
+### 🚀 Projets Phares
 
-#### 🏆 **1er Prix - Compétition d'innovation XR 2025**
-- Création d'une solution XR immersive pour le streaming des matchs
-- **Technologies :** StereoKit, C#, Web Scraping Python, Nginx Streaming Server, OBS Studio
+#### 🥽 Solution de Streaming Immersif XR (1er Prix 2025)
+- [cite_start]Création d'une solution de streaming pour les matchs en réalité étendue utilisant StereoKit et C#[cite: 31, 33, 72, 74].
 
-#### 📊 **Solution Big Data pour l'analyse et sécurisation des données bancaires**
-- Conception d'un flux Big Data sécurisé pour l'analyse et protection des données bancaires
-- **Technologies :** Apache Hadoop, HDFS, Hive, Sqoop, MySQL, Java 8
+#### 🕵️ Pentesting & Audit de Sécurité
+- [cite_start]Audit complet d'une application web (Cars-Enjoy) : exploitation de 11 vulnérabilités critiques/élevées (RCE via File Upload, IDOR, Broken Access Control) et rédaction d'un rapport professionnel[cite: 113, 158, 159, 165].
+- [cite_start]Énumération et audit de sécurité Active Directory[cite: 25, 26].
 
----
-
-### 🌐 Langues
-- **Arabe** : Langue maternelle
-- **Français** : Niveau intermédiaire avancé
-- **Anglais** : Niveau intermédiaire
+#### 🏦 Big Data pour le Secteur Bancaire
+- [cite_start]Conception d'un pipeline sécurisé pour l'analyse et la protection des données bancaires avec Hadoop et Hive[cite: 34, 35, 75, 76, 111].
 
 ---
 
-### 💡 Soft Skills
-- Sens des responsabilités
-- Esprit d'équipe
-- Rigueur
-- Graphic Design
-
----
-
-### 🎯 Centres d'intérêt
-- Voyage
-- Sport
-- Cinéma
-- Musique
-
----
-
-### 📈 Statistiques GitHub
-
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AliBouziane&theme=tokyonight" alt="Détails Profil" width="100%">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AliBouziane&theme=tokyonight" width="45%">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AliBouziane&theme=tokyonight" width="45%">
-</p>
+### 🌐 Langues & Soft Skills
+- [cite_start]**Langues :** Arabe (Maternelle), Français (Courant/Avancé), Anglais (Courant/Intermédiaire)[cite: 43, 91].
+- [cite_start]**Soft Skills :** Esprit d'équipe, rigueur, capacité d'analyse, Graphic Design[cite: 92, 94, 96].
 
 ---
 
 ### 📞 Contact
 
-- 📧 Email : [bouziane_ali.eupf.ac.ma](mailto:bouziane_ali.eupf.ac.ma)
-- 📱 Téléphone : +33 7 70 07 57 01
-- 💼 LinkedIn : [Ali Bouziane](https://www.linkedin.com/in/ali-bouziane-063a74225/)
-- 🏠 Adresse : Route Ain chefak FES 30000 Fes
+- [cite_start]📧 **Email :** [bouziane_ali@upf.ac.ma](mailto:bouziane_ali@upf.ac.ma) [cite: 3, 47, 101]
+- [cite_start]📱 **Téléphone :** 07 70 07 57 01 [cite: 2, 46, 100]
+- [cite_start]💼 **LinkedIn :** [ali-bouziane-063a74225](https://www.linkedin.com/in/ali-bouziane-063a74225/) [cite: 4, 48]
