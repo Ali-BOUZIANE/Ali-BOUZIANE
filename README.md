@@ -1,16 +1,19 @@
-# Salut 👋, je suis Ali Bouziane  
+<div align="center">
+
+# 👋 Salut, je suis **Ali Bouziane**
+
 ### Ingénieur en Génie Informatique | Cybersécurité
 
-<div align="center">
-  <a href="https://github.com/AliBouziane">
-    <img src="https://img.shields.io/github/followers/AliBouziane?label=Followers&style=social" alt="Followers GitHub">
-  </a>
-  <a href="mailto:bouziane_ali@upf.ac.ma">
-    <img src="https://img.shields.io/badge/Email-bouziane__ali@upf.ac.ma-red?style=flat-square&logo=gmail&logoColor=white" alt="Badge Email">
-  </a>
-  <a href="https://www.linkedin.com/in/ali-bouziane-063a74225/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Ali%20Bouziane-blue?style=flat-square&logo=linkedin&logoColor=white" alt="Badge LinkedIn">
-  </a>
+<a href="https://github.com/AliBouziane">
+  <img src="https://img.shields.io/github/followers/AliBouziane?label=Followers&style=social" alt="Followers GitHub">
+</a>
+<a href="mailto:bouziane_ali@upf.ac.ma">
+  <img src="https://img.shields.io/badge/Email-bouziane__ali@upf.ac.ma-red?style=flat-square&logo=gmail&logoColor=white" alt="Badge Email">
+</a>
+<a href="https://www.linkedin.com/in/ali-bouziane-063a74225/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Ali%20Bouziane-blue?style=flat-square&logo=linkedin&logoColor=white" alt="Badge LinkedIn">
+</a>
+
 </div>
 
 ---
@@ -22,6 +25,28 @@
 - 🛡️ Passionné par la **cybersécurité**, le **développement logiciel** et l’**intelligence artificielle**  
 - 🏆 Lauréat du **1er Prix – Compétition d’innovation XR 2025**  
 - 💼 Expériences significatives en **développement Web** et **ingénierie logicielle** (BTP & aéronautique)
+
+---
+
+## 🧑‍💻 Platforms CTF & Cyber Practice
+
+<div align="center">
+
+<a href="https://tryhackme.com/p/Slikhe" target="_blank">
+  <img src="https://img.shields.io/badge/TryHackMe-Slikhe-red?style=for-the-badge&logo=tryhackme&logoColor=white">
+</a>
+<a href="https://app.hackthebox.com/home" target="_blank">
+  <img src="https://img.shields.io/badge/Hack%20The%20Box-Active-green?style=for-the-badge&logo=hackthebox&logoColor=white">
+</a>
+<a href="https://play.picoctf.org/users/Slikhe" target="_blank">
+  <img src="https://img.shields.io/badge/picoCTF-Slikhe-blue?style=for-the-badge&logo=ctfd&logoColor=white">
+</a>
+
+</div>
+
+- 🕵️‍♂️ **TryHackMe :** Web, Linux, Pentesting, Active Directory, Blue Team  
+- 🧠 **Hack The Box :** Machines, Challenges, Offensive Security  
+- 🚩 **picoCTF :** Cryptography, Reverse Engineering, Web Exploitation  
 
 ---
 
@@ -72,13 +97,16 @@
 
 ## 🌐 Langues & Soft Skills
 
-- **Langues :**  
-  - Arabe : Maternelle  
-  - Français : Courant / Avancé  
-  - Anglais : Courant / Intermédiaire  
+### 🌍 Langues
+- Arabe : Maternelle  
+- Français : Courant   
+- Anglais : Courant   
 
-- **Soft Skills :**  
-  Esprit d’équipe, rigueur, capacité d’analyse, sens du design graphique  
+### 🤝 Soft Skills
+- Esprit d’équipe  
+- Rigueur  
+- Capacité d’analyse  
+- Sens du design graphique  
 
 ---
 
