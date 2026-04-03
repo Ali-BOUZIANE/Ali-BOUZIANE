@@ -20,8 +20,7 @@
 
 ## 🧑‍💻 À propos de moi
 
-- 🎓 Étudiant en **dernière année du cycle d’ingénieur en Génie Informatique** à l’Université Privée de Fès  
-- 🔍 À la recherche d’un **stage de fin d’études (PFE)** de 6 mois à partir de **février 2026**  
+- 🎓 Étudiant en **dernière année du cycle d’ingénieur en Génie Informatique** à l’Université Privée de Fès   
 - 🛡️ Passionné par la **cybersécurité**, le **développement logiciel** et l’**intelligence artificielle**  
 - 🏆 Lauréat du **1er Prix – Compétition d’innovation XR 2025**  
 - 💼 Expériences significatives en **développement Web** et **ingénierie logicielle** (BTP & aéronautique)
